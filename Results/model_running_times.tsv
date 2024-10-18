@@ -1,0 +1,24 @@
+Model	Running Time
+Resnik	2.09
+Resnik	1.96
+Resnik	2.26
+Lin	1.98
+Lin	1.98
+Lin	2.05
+Jiang-Conrath	2.19
+Jiang-Conrath	2.03
+Jiang-Conrath	2.25
+SimGIC	2.17
+SimUI	1.77
+convE	8.26
+distMult	7.07
+rotatE	4.49
+transD	13.12
+transE	7.72
+RDF2Vec_1	123.35
+RDF2Vec_2	307.77
+RDF2Vec_3	144.54
+RDF2Vec_4	298.8
+RDF2Vec_5	131.01
+RDF2Vec_6	276.58
+RDF2Vec_7	255.81

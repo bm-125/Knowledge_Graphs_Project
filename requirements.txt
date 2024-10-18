@@ -1,0 +1,15 @@
+fastsemsim
+gensim==3.8.1
+ipykernel
+matplotlib
+networkx==2.6.3
+nltk==3.8.1
+owlready2==0.46
+pandas
+rdflib
+scikit-learn
+scipy==1.7.3
+seaborn
+SPARQLWrapper==2.0.0
+tensorflow==1.15.0
+torch==1.13.1
